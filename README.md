@@ -1,3 +1,7 @@
+NAME: RAMYA R
+
+REG NO: 23000505
+
 # Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -109,32 +113,59 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+ SR FLIPFLOP
+
+ ![Screenshot 2023-12-02 160231](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/7ad95e40-66f7-4126-b107-1de83dca5f99)
+
+JK FLIPFLOP
+
+![Screenshot 2023-12-02 160239](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/3c4708a3-d1ce-4120-83f9-ec0acc3a8c24)
+
+D FLIPFLOP
+
+![Screenshot 2023-12-02 160247](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/31e17ea3-2235-4b92-91a6-bafb6969dd77)
+
+T FLIPFLOP
+
+![Screenshot 2023-12-02 160255](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/1cf49784-ea4c-4207-95d5-97e106583fe0)
+
 */
-
-
-
-
-
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+RLT LOGIC FOR SR FLIPFLOP
 
+![Screenshot 2023-12-02 160324](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/f7c3779c-6e08-4629-916e-0f4960b10314)
 
+RLT LOGIC FOR JK FLIPFLOP
 
+![Screenshot 2023-12-02 160331](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/23a37bb4-173a-418a-bddb-9ddd359016b0)
 
+RLT LOGIC FOR D FLIPFLOP
 
+![Screenshot 2023-12-02 160339](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/47b4e552-9070-4f1c-bb1d-8d6965015062)
 
+RLT LOGIC FOR T FLIPFLOP
 
+![Screenshot 2023-12-02 160347](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/9188e832-09eb-4a85-9db8-4a6ed3eee450)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+TIMING DIGRAMS FOR  SR FLIPFLOP
 
+![Screenshot 2023-12-02 160423](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/781b6c38-a8da-4f76-b422-f76500dec34f)
 
+TIMING DIGRAMS FOR  JK FLIPFLOP
 
+![Screenshot 2023-12-02 160436](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/da9964dd-79f4-49f9-9eb3-23fed97e6af2)
 
+TIMING DIGRAMS FOR  D FLIPFLOP
 
+![Screenshot 2023-12-02 160448](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/773de760-e579-4f12-9eac-ee206886f757)
 
+TIMING DIGRAMS FOR  T FLIPFLOP
+
+![Screenshot 2023-12-02 160458](https://github.com/ramya23000505/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149370791/bf4be5e7-d8dd-4d31-9eaa-cad284debcaf)
 
 ### RESULTS 
